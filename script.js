@@ -94,3 +94,5 @@ btnHold.addEventListener('click', function () {
         }
     }
 });
+
+btnNew.addEventListener('clink', init);
